@@ -1,4 +1,6 @@
+Revlon Digital Transformation Strategy Development
 
-Uncovering Community Insights: A Statistical Analysis of Demographic and Economic Variables in U.S. Counties
-Uncovering Community Insights: A Statistical Analysis of Demographic and Economic Variables in U.S. Counties
-This project uses SAS (Statistical Analysis System) to analyze a dataset related to counties in the United States. The primary goal of the project is to uncover insights into societal dynamics by examining how different demographic variables interact with each other. The dataset includes various economic, educational, health, and urbanization metrics, such as poverty rates, unemployment rates, homeownership, median household income, per-capita income, multi-unit apartment rates, metropolitan status, population, and smoking ban policies.
+
+This project outlines a comprehensive digital transformation strategy for Revlon, a global leader in the beauty industry. The strategy focuses on leveraging advanced digital technologies—such as AI, social media, analytics, and augmented reality (AR)—to enhance customer engagement, streamline operations, and boost market presence. Key areas of focus include improving e-commerce platforms, personalizing customer experiences, and integrating innovative technologies like virtual try-on features. The strategy also addresses challenges such as system integration, employee resistance, and the need for continuous investment in digital capabilities. The goal is to position Revlon as a digital-first brand, setting new standards in the beauty industry.
+
+
